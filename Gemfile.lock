@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     new_google_recaptcha (1.0.0)
-      rails (>= 4.2.0)
+      rails (>= 3.2.0)
 
 GEM
   remote: https://rubygems.org/
